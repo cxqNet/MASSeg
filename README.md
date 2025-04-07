@@ -9,28 +9,49 @@
 
 ## 🚧🚧🚧 We are currently organizing the code and will release the complete solution soon! After obtaining official approval from the challenge organizers
 **Thank you for your understanding and support!**
+#### Author: Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
+
+# Introduce
+
+
+# Installation 
+MASSeg needs to be installed first before use. The code requires `python>=3.10`, as well as `torch>=2.5.1` and `torchvision>=0.20.1`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. You can install MASSeg on a GPU machine using:
 
 ### Clone this repository
 
    ```bash
-   git clone --depth 1 https://github.com/cxqNet/MASSeg.git
-   ```
+   git clone --depth 1 https://github.com/cxqNet/MASSeg.git  && cd MASSeg
 
+   pip install -e .
+   ```
+# Getting Started
 ### Datasets Preparation
 We integrated a new dataset "MOSE+" to improve the performance of the model in the training phase
 The dataset "MOSE+" can be downloaded from this link of [BaiduPan]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n). Please place it in the `data` folder and confirm the file structure as follows:
 ```
-MASSeg
+MASSeg/
     |- data
-       |- JPEGImages
-       |- Annotations
-       |- moseplus.txt
+        |- MOSE+
+           |- JPEGImages
+           |- Annotations
+           |- moseplus.txt
     |- Training
     |- tools
     |- ...
 ```
+### Download Pretrained Weights
+We provide the pretrained model weights used in the CVPR 2025 PVUW MOSE Track. You can download them via the link below:
+🔗 Baidu Netdisk Download Link: [BaiduPan]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n)
 
-### MOSE Challenge Organizers
+After downloading, please place the weights in the following directory:
+
+```
+MASSeg/
+    |- checkpoints/
+        │- mass_seg_mose.pth
+```
+
+# MOSE Challenge Organizers :
 
 <!-- 第一行：主组织者 -->
 <table align="center" cellspacing="10">
