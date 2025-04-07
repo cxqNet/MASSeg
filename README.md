@@ -30,3 +30,38 @@ MASSeg
     |- tools
     |- ...
 ```
+
+
+<h2 align="center">MOSE Challenge Organizers</h2>
+
+<p align="center">
+  <img src="fig/HenghuiDing.jpg" width="100" style="border-radius: 50%;">
+  <img src="fig/LiuChang.jpg" width="100" style="border-radius: 50%;">
+</p>
+<p align="center">
+  <a href="https://henghuiding.github.io/"><b>Henghui Ding</b></a><br>
+  <i>Primary Organizer<br>Fudan University</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://example.com/chang_liu"><b>Chang Liu</b></a><br>
+  <i>Primary Organizer<br>Nanyang Technological University</i>
+</p>
+
+<p align="center">
+  <img src="fig/ShutingHe.jpg" width="100" style="border-radius: 50%;">
+  <img src="fig/JiangXudong.jpg" width="100" style="border-radius: 50%;">
+  <img src="fig/PhilipTorr.jpg" width="100" style="border-radius: 50%;">
+  <img src="fig/SongBai.jpg" width="100" style="border-radius: 50%;">
+</p>
+<p align="center">
+  <a href="https://example.com/shuting_he"><b>Shuting He</b></a><br>
+  <i>Nanyang Technological University</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://example.com/xudong_jiang"><b>Xudong Jiang</b></a><br>
+  <i>Nanyang Technological University</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://example.com/philip_torr"><b>Philip H.S. Torr</b></a><br>
+  <i>University of Oxford</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://example.com/song_bai"><b>Song Bai</b></a><br>
+  <i>ByteDance</i>
+</p>
