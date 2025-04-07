@@ -8,8 +8,9 @@
 </p>
 
 ## 🚧🚧🚧 We are currently organizing the code and will release the complete solution soon! After obtaining official approval from the challenge organizers
-**Thank you for your understanding and support!**
-#### Author: Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
+**Thank you for your understanding and support!** 
+
+**Author:** Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
 
 # Introduce
 **MASSeg** is our 2nd place solution to the CVPR 2025 PVUW MOSE Challenge. It enhances a segmentation framework with mask scaling, MOSE-specific data augmentation, and the MOSE+ dataset, achieving a J&F score of **0.8628**. 
