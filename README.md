@@ -32,36 +32,52 @@ MASSeg
 ```
 
 
-<h2 align="center">MOSE Challenge Organizers</h2>
+### MOSE Challenge Organizers
 
-<p align="center">
-  <img src="fig/HenghuiDing.jpg" width="100" style="border-radius: 50%;">
-  <img src="fig/LiuChang.jpg" width="100" style="border-radius: 50%;">
-</p>
-<p align="center">
-  <a href="https://henghuiding.github.io/"><b>Henghui Ding</b></a><br>
-  <i>Primary Organizer<br>Fudan University</i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://example.com/chang_liu"><b>Chang Liu</b></a><br>
-  <i>Primary Organizer<br>Nanyang Technological University</i>
-</p>
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="fig/HenghuiDing.jpg" width="100"><br>
+      <a href="https://henghuiding.github.io/"><b>Henghui Ding</b></a><br>
+      <i>Primary Organizer</i><br>
+      <i>Fudan University</i>
+    </td>
+    <td width="60"></td>
+    <td>
+      <img src="fig/LiuChang.jpg" width="100"><br>
+      <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=XlQP0GIAAAAJ"><b>Chang Liu</b></a><br>
+      <i>Primary Organizer</i><br>
+      <i>Nanyang Technological University</i>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="fig/ShutingHe.jpg" width="100" style="border-radius: 50%;">
-  <img src="fig/JiangXudong.jpg" width="100" style="border-radius: 50%;">
-  <img src="fig/PhilipTorr.jpg" width="100" style="border-radius: 50%;">
-  <img src="fig/SongBai.jpg" width="100" style="border-radius: 50%;">
-</p>
-<p align="center">
-  <a href="https://example.com/shuting_he"><b>Shuting He</b></a><br>
-  <i>Nanyang Technological University</i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://example.com/xudong_jiang"><b>Xudong Jiang</b></a><br>
-  <i>Nanyang Technological University</i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://example.com/philip_torr"><b>Philip H.S. Torr</b></a><br>
-  <i>University of Oxford</i>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://example.com/song_bai"><b>Song Bai</b></a><br>
-  <i>ByteDance</i>
-</p>
+<br>
+
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="fig/ShutingHe.jpg" width="100"><br>
+      <a href="https://heshuting555.github.io/"><b>Shuting He</b></a><br>
+      <i>Nanyang Technological University</i>
+    </td>
+    <td width="40"></td>
+    <td>
+      <img src="fig/JiangXudong.jpg" width="100"><br>
+      <a href="https://personal.ntu.edu.sg/exdjiang/"><b>Xudong Jiang</b></a><br>
+      <i>Nanyang Technological University</i>
+    </td>
+    <td width="40"></td>
+    <td>
+      <img src="fig/PhilipTorr.jpg" width="100"><br>
+      <a href="https://www.robots.ox.ac.uk/~phst/"><b>Philip H.S. Torr</b></a><br>
+      <i>University of Oxford</i>
+    </td>
+    <td width="40"></td>
+    <td>
+      <img src="fig/SongBai.jpg" width="100"><br>
+      <a href="https://songbai.site/"><b>Song Bai</b></a><br>
+      <i>ByteDance</i>
+    </td>
+  </tr>
+</table>
