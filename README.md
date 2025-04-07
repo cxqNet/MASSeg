@@ -7,5 +7,5 @@
 Thank you for your understanding and support!
 
 <p align="middle">
-    <img src="fig/INC.png">
+    <img src="fig/CVPRpic.jpeg">
 </p>
