@@ -11,8 +11,11 @@
 
 Thank you for your understanding and support!
 
+**Clone this repository.**
 
-
+   ```bash
+   git clone --depth 1 https://github.com/cxqNet/MASSeg.git
+   ```
 
 ### Datasets Preparation
 We integrated a new dataset "MOSE+" to improve the performance of the model in the training phase
@@ -25,4 +28,5 @@ MASSeg
        |- moseplus.txt
     |- Training
     |- tools
+    |- ...
 ```
