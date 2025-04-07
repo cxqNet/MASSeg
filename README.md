@@ -1,4 +1,4 @@
-# CVPR 2025 - MOSE Track of the 4th PVUW challenge 2025
+# CVPR 2025 - MOSE Track of the 4th PVUW challenge 2025：2nd 
 
 # MASSeg : Multi-scale-Aware Segmentation Network for Complex Video Object Segmentation
 
@@ -8,10 +8,9 @@
 </p>
 
 ## 🚧🚧🚧 We are currently organizing the code and will release the complete solution soon, after obtaining official approval from the challenge organizers. 
+## Thank you for your understanding and support!
 
-Thank you for your understanding and support!
-
-**Clone this repository.**
+### Clone this repository
 
    ```bash
    git clone --depth 1 https://github.com/cxqNet/MASSeg.git
