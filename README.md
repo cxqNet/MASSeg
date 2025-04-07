@@ -12,7 +12,10 @@
 #### Author: Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
 
 # Introduce
-
+**MASSeg** is our 2nd place solution to the CVPR 2025 PVUW MOSE Challenge. It enhances a segmentation framework with mask scaling, MOSE-specific data augmentation, and the MOSE+ dataset, achieving a J&F score of **0.8628**. 
+<p align="middle">
+    <img src="fig/主框架3.png" style="width:800px; height:300px;">
+</p>
 
 # Installation 
 MASSeg needs to be installed first before use. The code requires `python>=3.10`, as well as `torch>=2.5.1` and `torchvision>=0.20.1`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. You can install MASSeg on a GPU machine using:
