@@ -16,7 +16,7 @@ Thank you for your understanding and support!
 
 ### Datasets Preparation
 We integrated a new dataset "MOSE+" to improve the performance of the model in the training phase
-The dataset "MOSE+" can be downloaded from [this link of BaiduPan]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n). Please place it in the `data` folder and confirm the file structure as follows:
+The dataset "MOSE+" can be downloaded from this link of [BaiduPan]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n). Please place it in the `data` folder and confirm the file structure as follows:
 ```
 MASSeg
     |- data
