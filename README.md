@@ -15,7 +15,7 @@
 # Introduce
 **MASSeg** is our 2nd place solution to the CVPR 2025 PVUW MOSE Challenge. It enhances a segmentation framework with mask scaling, MOSE-specific data augmentation, and the MOSE+ dataset, achieving a J&F score of **0.8628**. 
 <p align="middle">
-    <img src="fig/主框架3.png" style="width:800px; height:300px;">
+    <img src="fig/主框架3.png" style="width:800px; height:200px;">
 </p>
 
 # Installation 
