@@ -7,7 +7,7 @@
 Thank you for your understanding and support!
 
 <p align="middle">
-    <img src="fig/CVPRpic.jpeg" style="width:600px; height:200px;">
+    <img src="fig/CVPRpic.jpeg" style="width:800px; height:300px;">
 </p>
 
 
