@@ -105,3 +105,5 @@ MASSeg/
   </tr>
 </table>
 
+## References
+We would like to thank the authors and contributors of [MOSE](https://github.com/henghuiding/MOSE-api), [Sam2](https://github.com/facebookresearch/sam2), and [Cutie](https://github.com/hkchengrex/Cutie), for their open-sourced code which significantly aided this project.
