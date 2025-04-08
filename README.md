@@ -109,6 +109,6 @@ MASSeg/
 </table>
 
 ## References
-**·** We especially thank the authors of **[MOSE](https://github.com/henghuiding/MOSE-api)** for providing a valuable and challenging dataset, which significantly advances research in complex video object segmentation.  
-**·** We also appreciate the open-source contributions of [Sam2](https://github.com/facebookresearch/sam2) and [Cutie](https://github.com/hkchengrex/Cutie), whose frameworks and ideas greatly inspired and supported our work.
+- We especially thank the authors of **[MOSE](https://github.com/henghuiding/MOSE-api)** for providing a valuable and challenging dataset, which significantly advances research in complex video object segmentation.  
+- We also appreciate the open-source contributions of [Sam2](https://github.com/facebookresearch/sam2) and [Cutie](https://github.com/hkchengrex/Cutie), whose frameworks and ideas greatly inspired and supported our work.
 
