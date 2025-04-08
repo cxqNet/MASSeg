@@ -7,6 +7,8 @@
     <img src="fig/CVPRpic.jpeg" style="width:800px; height:250px;">
 </p>
 
+🏛️ **[[ MOSE Homepage ]](https://henghuiding.github.io/MOSE/)**
+
 ## 🚧🚧🚧 We are currently organizing the code and will release the complete solution soon! After obtaining official approval from the challenge organizers
 **Thank you for your understanding and support!** 
 
@@ -44,8 +46,9 @@ MASSeg/
     |- ...
 ```
 ### Download Pretrained Weights
-We provide the pretrained model weights used in the CVPR 2025 PVUW MOSE Track. You can download them via the link below:
-🔗 Baidu Netdisk Download Link: [BaiduPan]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n)
+We provide the pretrained model weights used in the Track. You can download them via the link below:  
+
+🔗 Baidu Netdisk Download Link: [[BaiduPan]]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n)
 
 After downloading, please place the weights in the following directory:
 
@@ -106,4 +109,6 @@ MASSeg/
 </table>
 
 ## References
-We would like to thank the authors and contributors of [MOSE](https://github.com/henghuiding/MOSE-api), [Sam2](https://github.com/facebookresearch/sam2), and [Cutie](https://github.com/hkchengrex/Cutie), for their open-sourced code which significantly aided this project.
+**·** We especially thank the authors of **[MOSE](https://github.com/henghuiding/MOSE-api)** for providing a valuable and challenging dataset, which significantly advances research in complex video object segmentation.  
+**·** We also appreciate the open-source contributions of [Sam2](https://github.com/facebookresearch/sam2) and [Cutie](https://github.com/hkchengrex/Cutie), whose frameworks and ideas greatly inspired and supported our work.
+
