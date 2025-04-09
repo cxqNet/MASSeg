@@ -48,7 +48,7 @@ MASSeg/
 ### Download Pretrained Weights
 We provide the pretrained model weights used in the Track. You can download them via the link below:  
 
-🔗 Baidu Netdisk Download Link: [[BaiduPan]]( https://pan.baidu.com/s/1pVRdRqkbX5gKf83YwnVc8Q?pwd=wc7n)
+🔗 Baidu Netdisk Download Link: [[BaiduPan]](https://pan.baidu.com/s/1qCTcd0531ea2uYupUb7OEw?pwd=jhgw)
 
 After downloading, please place the weights in the following directory:
 
