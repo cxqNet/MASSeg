@@ -60,7 +60,6 @@ MASSeg/
 
 # MOSE Challenge Organizers :
 
-<!-- 第一行：主组织者 -->
 <table align="center" cellspacing="10">
   <tr align="center">
     <td width="160px">
@@ -79,7 +78,7 @@ MASSeg/
 
 <br>
 
-<!-- 第二行：其他组织者 -->
+
 <table align="center" cellspacing="10">
   <tr align="center">
     <td width="160px">
