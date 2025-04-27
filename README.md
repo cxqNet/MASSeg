@@ -1,4 +1,4 @@
-# CVPR 2025 - MOSE Track of the 4th PVUW challenge 2025：**2nd** 
+# CVPR 2025 - MOSE Track of the 4th PVUW challenge
 
 # MASSeg : Multi-scale-Aware Segmentation Network for Complex Video Object Segmentation
 
@@ -7,7 +7,9 @@
     <img src="fig/CVPRpic.jpeg" style="width:800px; height:250px;">
 </p>
 
-🏛️ **[[ MOSE Homepage ]](https://henghuiding.github.io/MOSE/)**
+### 🏅 Paper on [[arXiv]](https://arxiv.org/abs/2504.10254)   | 🏛️ **[[ MOSE Homepage ]](https://henghuiding.github.io/MOSE/)**  
+
+
 
 ## 🚧🚧🚧 We are currently organizing the code and will release the complete solution soon! After obtaining official approval from the challenge organizers
 **Thank you for your understanding and support!** 
