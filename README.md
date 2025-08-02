@@ -10,10 +10,6 @@
 ### 🏅 Paper on [[arXiv]](https://arxiv.org/abs/2504.10254)   | 🏛️ **[[ MOSE Homepage ]](https://henghuiding.github.io/MOSE/)**  
 
 
-
-## 🚧🚧🚧 We are currently organizing the code and will release the complete solution soon! After obtaining official approval from the challenge organizers
-**Thank you for your understanding and support!** 
-
 **Author:** Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
 
 # Introduce
