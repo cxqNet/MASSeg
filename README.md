@@ -10,7 +10,7 @@
 ### 🏅 Paper on [[arXiv]](https://arxiv.org/abs/2504.10254)   | 🏛️ **[[ MOSE Homepage ]](https://henghuiding.github.io/MOSE/)**  
 
 
-**Author:** Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
+### 👨‍🚀 **Author:** Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma 
 
 # Introduce
 **MASSeg** is our 2nd place solution to the CVPR 2025 PVUW MOSE Challenge. It enhances a segmentation framework with mask scaling, MOSE-specific data augmentation, and the MOSE+ dataset, achieving a **J&F** score of **0.8628**. 
